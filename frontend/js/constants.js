@@ -1,7 +1,7 @@
 const contractAddress = "0x87Ea636D6e99C55d4d0c96c80f00212Fdd0D18f9"; // Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
-const welcome_h1 = "Welc ome to the Quirky ALiens NFT Project!!";
+const welcome_h1 = "Welc ome to the allllQuirky ALiens NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'Please see twitter page for all info';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
