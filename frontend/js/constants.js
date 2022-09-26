@@ -1,5 +1,5 @@
 const contractAddress = "0x1D16a2B70d0A6d835349777466b846D58CC13f89"; // Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
+const chain = 'polygon'; // rinkeby, polygon, or ethereum
 
 const welcome_h1 = "Welcome to the Quirky ALiens mint site!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
